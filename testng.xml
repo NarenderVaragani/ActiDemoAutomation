@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!-- test -->
 <suite name="Suite">
   <test name="Test">
     <classes>
@@ -7,6 +8,7 @@
       <class name="com.acti.TestCases.PreTest"/>
       <class name="com.acti.TestCases.TC03_AddNewUser"/>
       <class name="com.acti.TestCases.TC02_VerifyEnterTimeTrackPage"/>
-    </classes>
+          </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
+
